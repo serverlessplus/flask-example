@@ -1,2 +1,2 @@
 all:
-	python3 -m pip install --upgrade flask serverlessplus -t .
+	python3 -m pip install --upgrade -r requirements.txt -t .
